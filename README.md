@@ -3,4 +3,4 @@ Surfline is a take home project that uses Google's Places API to retrieve a list
 
 Once presented, it includes attributes related to that place that may be useful to the user including a place logo, name and opening hours.
 
-Additional features include the ability to change your API Key, use of Dark Mode and Dynamic Type throughout the app and geo-targeting for determining a users current location.
+Additional features include the ability to change your API Key, use of Dark Mode and Dynamic Type throughout the app, geo-targeting for determining a users current location and Unit Tests.
